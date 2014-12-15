@@ -1,3 +1,5 @@
 <?php
 
-dfsfsf
+echo 
+
+die;
